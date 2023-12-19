@@ -4,6 +4,7 @@ The map highlights areas that were identified as suitable for conservation actio
 
 The full methodology is detailed in the study "Schleimer, A., Cantú-Salazar, L., Luttringer, A., Frantz, A. A multidisciplinary framework for spatial prioritisation in crested newt conservation: insights from population genetics and habitat suitability in Luxembourg." that is currently in peer review for publication. 
 
+The map can be accessed here: https://bphysalus-anna.github.io/Tcristatus/#10/49.8167/6.1333
 ### Partners
 
 This study was led by researchers from the Fondation Faune-Flore, National Museum of Natural History Luxembourg, and the Luxembourg Institute of Science and Technology. The study was funded by the Ministry of the Environment, Climate and Sustainable Development Luxembourg. 
