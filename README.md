@@ -8,3 +8,5 @@ The map can be accessed here: https://bphysalus-anna.github.io/Tcristatus/#10/49
 ### Partners
 
 This study was led by researchers from the Fondation Faune-Flore, National Museum of Natural History Luxembourg, and the Luxembourg Institute of Science and Technology. The study was funded by the Ministry of the Environment, Climate and Sustainable Development Luxembourg. 
+
+https://zenodo.org/doi/10.5281/zenodo.10630107
