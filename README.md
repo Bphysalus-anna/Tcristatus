@@ -7,6 +7,6 @@ The full methodology is detailed in the study: Schleimer, A., Cantú-Salazar, L.
 The map can be accessed here: https://bphysalus-anna.github.io/Tcristatus/#10/49.8167/6.1333
 ### Partners
 
-This study was led by researchers from the Fondation Faune-Flore, National Museum of Natural History Luxembourg, and the Luxembourg Institute of Science and Technology. The study was funded by the Ministry of the Environment, Climate and Sustainable Development Luxembourg. 
+This study was led by researchers from the Fondation Faune-Flore, National Museum of Natural History Luxembourg, and the Luxembourg Institute of Science and Technology. The study was funded by the Ministry of the Environment, Climate and Biodiversity Luxembourg. 
 
 https://zenodo.org/doi/10.5281/zenodo.10630107
